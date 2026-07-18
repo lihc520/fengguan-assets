@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/lihc520/fengguan-assets/main/assets",
+  "assets": {
+    "皇宫婚殿 (内)": "scenes/palace_hall_2k.png",
+    "皇宫婚殿 (铜镜旁)": "scenes/palace_mirror_2k.png",
+    "沈昭宁 (新婚·无冠)": "characters/shen_zhaoning_uncrowned_2k.png",
+    "沈昭宁 (新婚·戴冠)": "characters/shen_zhaoning_crowned_2k.png",
+    "喜娘": "characters/matchmaker_2k.png",
+    "苏云枝 (赤金虚影)": "characters/su_yunzhi_2k.png",
+    "顾长缨 (赤甲虚影)": "characters/gu_changying_2k.png",
+    "叶知微 (冷青虚影)": "characters/ye_zhiwei_2k.png",
+    "阿史那璃 (深紫虚影)": "characters/ashina_li_2k.png",
+    "温如意 (灰白虚影)": "characters/wen_ruyi_2k.png",
+    "容清和 (黑金虚影)": "characters/rong_qinghe_2k.png",
+    "九翚凤冠": "props/jiuhui_crown_2k.png",
+    "顾长缨的断刀": "props/broken_blade_1k.png",
+    "叶知微的染血脉案": "props/medical_record_1k.png",
+    "暗红锁魂石": "props/soul_stone_1k.png",
+    "合卺酒杯与酒壶": "props/wedding_wine_set_2k.png",
+    "温如意的布虎": "props/cloth_tiger_1k.png",
+    "容清和的细长金簪": "props/gold_hairpin_1k.png"
+  }
+}
